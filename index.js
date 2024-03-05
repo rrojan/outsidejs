@@ -1,5 +1,7 @@
-export default class Outside {
+class Outside {
   async cheer() {
-    console.log("Outside!!!")
+    console.log('Outside!!!');
   }
 }
+
+export default Outside;
